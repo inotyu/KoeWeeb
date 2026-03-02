@@ -1,5 +1,7 @@
 # 📚 KoeWeeb - Leitor de Mangás Online
 
+**🌐 [Acesse o site agora: **koeweeb.vercel.app**](https://koeweeb.vercel.app/)**
+
 Plataforma moderna de leitura de mangás online com scraping inteligente e interface responsiva.
 
 ## 📋 Sumário
